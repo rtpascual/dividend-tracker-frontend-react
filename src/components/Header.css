@@ -1,0 +1,31 @@
+a {
+  text-decoration: none;
+  color: #f1f1f1;
+  padding: 0.5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #202020;
+}
+
+.header ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header ul li {
+  margin: 0 1rem 0 1rem;
+}
+
+.logo {
+  font-size: xx-large;
+  margin-left: 1rem;
+}
